@@ -1,0 +1,29 @@
+
+#box, #box1{
+    height: 400px;
+    width: 400px;
+    background-color: orange;
+}
+
+.all > div{
+    height:  300px;
+    border: 1px solid black;
+}
+
+.blueviolet > div {
+    background-color:blueviolet;
+}
+.purple > div {
+    background-color: purple;
+}
+.greenyellow > div {
+    background-color: greenyellow;
+}
+.orangered > div {
+    background-color: orangered;
+}
+
+.img-fluid{
+    height:400px;
+    width:500px;
+}
