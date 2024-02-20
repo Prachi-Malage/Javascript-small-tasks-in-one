@@ -27,3 +27,13 @@
     height:400px;
     width:500px;
 }
+.backHomeBtn{
+    position:absolute;
+    top: 5%;
+    left:80%;
+    font-size: 20px;
+}
+.backHomeBtn a{
+    color: #f8b627;
+    text-decoration: none;
+}
